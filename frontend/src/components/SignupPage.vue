@@ -1,9 +1,8 @@
 <script setup>
-
 </script>
 
 <template>
-  <router-view></router-view>
+  <h1>Sign up page</h1>
 </template>
 
 <style scoped>
